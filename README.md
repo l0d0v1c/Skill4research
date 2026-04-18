@@ -42,3 +42,7 @@ Start a Claude Code session in that project. The directives apply immediately.
 ## License
 
 MIT
+
+
+# Citation
+[![DOI](https://zenodo.org/badge/1214280117.svg)](https://doi.org/10.5281/zenodo.19641745)
